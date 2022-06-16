@@ -1,2 +1,2 @@
-# selectionSort
-Selection Sort Algorithm.  Organize any set of numbers entered by the user in ascending order.
+# Sorting Algorithms
+This repository contains an implementation of the selection sort, the bubble sort...
